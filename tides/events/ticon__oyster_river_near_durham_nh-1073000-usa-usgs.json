@@ -1,0 +1,76 @@
+{
+  "station": {
+    "id": "ticon/oyster_river_near_durham_nh-1073000-usa-usgs",
+    "name": "Oyster River near Durham Nh",
+    "sourceName": "TICON-4",
+    "sourceId": "oyster_river_near_durham_nh-1073000-usa-usgs",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "NH",
+    "continent": "Americas",
+    "timezone": "America/New_York",
+    "latitude": 43.148696,
+    "longitude": -70.96506,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T01:56:30.340Z",
+      "type": "low",
+      "heightM": -0.093
+    },
+    {
+      "time": "2026-07-21T11:51:16.611Z",
+      "type": "high",
+      "heightM": -0.115
+    },
+    {
+      "time": "2026-07-23T04:34:07.590Z",
+      "type": "high",
+      "heightM": -0.126
+    },
+    {
+      "time": "2026-07-25T14:24:20.881Z",
+      "type": "low",
+      "heightM": -0.139
+    },
+    {
+      "time": "2026-08-03T11:56:31.630Z",
+      "type": "high",
+      "heightM": -0.118
+    },
+    {
+      "time": "2026-08-19T04:59:59.744Z",
+      "type": "high",
+      "heightM": -0.133
+    },
+    {
+      "time": "2026-08-25T09:19:31.578Z",
+      "type": "low",
+      "heightM": -0.147
+    },
+    {
+      "time": "2026-08-26T20:42:34.684Z",
+      "type": "high",
+      "heightM": -0.134
+    }
+  ]
+}

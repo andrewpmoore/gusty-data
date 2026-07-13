@@ -1,0 +1,71 @@
+{
+  "station": {
+    "id": "ticon/barth-9650030-deu-wsv",
+    "name": "Barth",
+    "sourceName": "TICON-4",
+    "sourceId": "barth-9650030-deu-wsv",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "Germany",
+    "region": "Mecklenburg-Vorpommern",
+    "continent": "Europe",
+    "timezone": "Europe/Berlin",
+    "latitude": 54.371219,
+    "longitude": 12.723212,
+    "chartDatum": "LAT",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T03:35:41.904Z",
+      "type": "high",
+      "heightM": 0.094
+    },
+    {
+      "time": "2026-08-10T13:15:04.584Z",
+      "type": "low",
+      "heightM": 0.116
+    },
+    {
+      "time": "2026-08-13T03:08:55.810Z",
+      "type": "high",
+      "heightM": 0.133
+    },
+    {
+      "time": "2026-08-19T19:31:02.016Z",
+      "type": "high",
+      "heightM": 0.104
+    },
+    {
+      "time": "2026-08-21T10:37:56.565Z",
+      "type": "low",
+      "heightM": 0.094
+    },
+    {
+      "time": "2026-08-24T12:09:54.570Z",
+      "type": "low",
+      "heightM": 0.114
+    },
+    {
+      "time": "2026-08-26T14:56:08.219Z",
+      "type": "low",
+      "heightM": 0.13
+    }
+  ]
+}

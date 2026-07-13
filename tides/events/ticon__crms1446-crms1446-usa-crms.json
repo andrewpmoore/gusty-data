@@ -1,0 +1,56 @@
+{
+  "station": {
+    "id": "ticon/crms1446-crms1446-usa-crms",
+    "name": "Hayes",
+    "sourceName": "TICON-4",
+    "sourceId": "crms1446-crms1446-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.92606,
+    "longitude": -92.82306,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T00:31:32.996Z",
+      "type": "low",
+      "heightM": -0.03
+    },
+    {
+      "time": "2026-08-12T02:06:16.073Z",
+      "type": "low",
+      "heightM": -0.013
+    },
+    {
+      "time": "2026-08-22T22:14:24.765Z",
+      "type": "low",
+      "heightM": -0.001
+    },
+    {
+      "time": "2026-08-26T23:49:33.558Z",
+      "type": "high",
+      "heightM": 0.011
+    }
+  ]
+}

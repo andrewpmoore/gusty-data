@@ -1,0 +1,66 @@
+{
+  "station": {
+    "id": "ticon/windmill_point_mi-9044049-usa-noaa",
+    "name": "Windmill Point Mi",
+    "sourceName": "TICON-4",
+    "sourceId": "windmill_point_mi-9044049-usa-noaa",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "MI",
+    "continent": "Americas",
+    "timezone": "America/Detroit",
+    "latitude": 42.357498,
+    "longitude": -82.93,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T01:32:15.028Z",
+      "type": "high",
+      "heightM": 0.206
+    },
+    {
+      "time": "2026-08-01T04:17:59.870Z",
+      "type": "high",
+      "heightM": 0.193
+    },
+    {
+      "time": "2026-08-10T00:21:34.262Z",
+      "type": "high",
+      "heightM": 0.172
+    },
+    {
+      "time": "2026-08-17T04:49:59.312Z",
+      "type": "high",
+      "heightM": 0.159
+    },
+    {
+      "time": "2026-08-21T23:03:44.161Z",
+      "type": "high",
+      "heightM": 0.144
+    },
+    {
+      "time": "2026-08-26T17:40:41.551Z",
+      "type": "low",
+      "heightM": 0.129
+    }
+  ]
+}

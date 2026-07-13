@@ -1,0 +1,906 @@
+{
+  "station": {
+    "id": "noaa/8532371",
+    "name": "New Bedford",
+    "sourceName": "US National Oceanic and Atmospheric Administration",
+    "sourceId": "8532371",
+    "sourceUrl": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8532371",
+    "license": "public domain",
+    "licenseUrl": "https://tidesandcurrents.noaa.gov/disclaimers.html",
+    "commercialUse": true,
+    "stationType": "subordinate",
+    "referenceStationId": "noaa/8531680",
+    "country": "United States",
+    "region": "NJ",
+    "continent": "Americas",
+    "timezone": "America/New_York",
+    "latitude": 40.1783,
+    "longitude": -74.0467,
+    "chartDatum": "MLLW",
+    "datumsSource": null,
+    "qualityAccepted": true,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T05:24:04.599Z",
+      "type": "low",
+      "heightM": -0.057
+    },
+    {
+      "time": "2026-07-13T11:10:57.451Z",
+      "type": "high",
+      "heightM": 1.398
+    },
+    {
+      "time": "2026-07-13T17:24:18.662Z",
+      "type": "low",
+      "heightM": -0.007
+    },
+    {
+      "time": "2026-07-13T23:34:31.611Z",
+      "type": "high",
+      "heightM": 1.831
+    },
+    {
+      "time": "2026-07-14T06:19:18.955Z",
+      "type": "low",
+      "heightM": -0.123
+    },
+    {
+      "time": "2026-07-14T12:06:42.568Z",
+      "type": "high",
+      "heightM": 1.464
+    },
+    {
+      "time": "2026-07-14T18:22:52.529Z",
+      "type": "low",
+      "heightM": -0.031
+    },
+    {
+      "time": "2026-07-15T00:27:23.583Z",
+      "type": "high",
+      "heightM": 1.836
+    },
+    {
+      "time": "2026-07-15T07:11:41.044Z",
+      "type": "low",
+      "heightM": -0.169
+    },
+    {
+      "time": "2026-07-15T13:00:58.916Z",
+      "type": "high",
+      "heightM": 1.508
+    },
+    {
+      "time": "2026-07-15T19:18:42.919Z",
+      "type": "low",
+      "heightM": -0.035
+    },
+    {
+      "time": "2026-07-16T01:19:21.943Z",
+      "type": "high",
+      "heightM": 1.802
+    },
+    {
+      "time": "2026-07-16T08:00:22.529Z",
+      "type": "low",
+      "heightM": -0.184
+    },
+    {
+      "time": "2026-07-16T13:54:55.048Z",
+      "type": "high",
+      "heightM": 1.528
+    },
+    {
+      "time": "2026-07-16T20:10:54.462Z",
+      "type": "low",
+      "heightM": -0.009
+    },
+    {
+      "time": "2026-07-17T02:11:09.755Z",
+      "type": "high",
+      "heightM": 1.733
+    },
+    {
+      "time": "2026-07-17T08:46:05.595Z",
+      "type": "low",
+      "heightM": -0.161
+    },
+    {
+      "time": "2026-07-17T14:48:48.544Z",
+      "type": "high",
+      "heightM": 1.529
+    },
+    {
+      "time": "2026-07-17T21:00:47.138Z",
+      "type": "low",
+      "heightM": 0.048
+    },
+    {
+      "time": "2026-07-18T03:03:11.630Z",
+      "type": "high",
+      "heightM": 1.638
+    },
+    {
+      "time": "2026-07-18T09:30:17.255Z",
+      "type": "low",
+      "heightM": -0.101
+    },
+    {
+      "time": "2026-07-18T15:42:13.916Z",
+      "type": "high",
+      "heightM": 1.515
+    },
+    {
+      "time": "2026-07-18T21:50:51.240Z",
+      "type": "low",
+      "heightM": 0.13
+    },
+    {
+      "time": "2026-07-19T03:55:13.505Z",
+      "type": "high",
+      "heightM": 1.532
+    },
+    {
+      "time": "2026-07-19T10:14:35.068Z",
+      "type": "low",
+      "heightM": -0.014
+    },
+    {
+      "time": "2026-07-19T16:33:50.302Z",
+      "type": "high",
+      "heightM": 1.495
+    },
+    {
+      "time": "2026-07-19T22:44:08.701Z",
+      "type": "low",
+      "heightM": 0.22
+    },
+    {
+      "time": "2026-07-20T04:46:16.494Z",
+      "type": "high",
+      "heightM": 1.425
+    },
+    {
+      "time": "2026-07-20T11:00:37.470Z",
+      "type": "low",
+      "heightM": 0.084
+    },
+    {
+      "time": "2026-07-20T17:22:33.544Z",
+      "type": "high",
+      "heightM": 1.471
+    },
+    {
+      "time": "2026-07-20T23:42:44.326Z",
+      "type": "low",
+      "heightM": 0.295
+    },
+    {
+      "time": "2026-07-21T05:35:37.529Z",
+      "type": "high",
+      "heightM": 1.325
+    },
+    {
+      "time": "2026-07-21T11:49:36.533Z",
+      "type": "low",
+      "heightM": 0.175
+    },
+    {
+      "time": "2026-07-21T18:09:01.435Z",
+      "type": "high",
+      "heightM": 1.444
+    },
+    {
+      "time": "2026-07-22T00:44:47.373Z",
+      "type": "low",
+      "heightM": 0.34
+    },
+    {
+      "time": "2026-07-22T06:24:23.408Z",
+      "type": "high",
+      "heightM": 1.238
+    },
+    {
+      "time": "2026-07-22T12:41:22.587Z",
+      "type": "low",
+      "heightM": 0.244
+    },
+    {
+      "time": "2026-07-22T18:55:31.083Z",
+      "type": "high",
+      "heightM": 1.418
+    },
+    {
+      "time": "2026-07-23T01:45:18.134Z",
+      "type": "low",
+      "heightM": 0.349
+    },
+    {
+      "time": "2026-07-23T07:15:23.759Z",
+      "type": "high",
+      "heightM": 1.17
+    },
+    {
+      "time": "2026-07-23T13:34:07.529Z",
+      "type": "low",
+      "heightM": 0.286
+    },
+    {
+      "time": "2026-07-23T19:45:08.818Z",
+      "type": "high",
+      "heightM": 1.402
+    },
+    {
+      "time": "2026-07-24T02:40:52.705Z",
+      "type": "low",
+      "heightM": 0.33
+    },
+    {
+      "time": "2026-07-24T08:11:36.123Z",
+      "type": "high",
+      "heightM": 1.133
+    },
+    {
+      "time": "2026-07-24T14:25:50.068Z",
+      "type": "low",
+      "heightM": 0.3
+    },
+    {
+      "time": "2026-07-24T20:39:14.619Z",
+      "type": "high",
+      "heightM": 1.404
+    },
+    {
+      "time": "2026-07-25T03:31:13.505Z",
+      "type": "low",
+      "heightM": 0.294
+    },
+    {
+      "time": "2026-07-25T09:10:57.451Z",
+      "type": "high",
+      "heightM": 1.135
+    },
+    {
+      "time": "2026-07-25T15:15:20.771Z",
+      "type": "low",
+      "heightM": 0.291
+    },
+    {
+      "time": "2026-07-25T21:33:25.693Z",
+      "type": "high",
+      "heightM": 1.43
+    },
+    {
+      "time": "2026-07-26T04:18:00.732Z",
+      "type": "low",
+      "heightM": 0.249
+    },
+    {
+      "time": "2026-07-26T10:05:55.986Z",
+      "type": "high",
+      "heightM": 1.17
+    },
+    {
+      "time": "2026-07-26T16:02:51.943Z",
+      "type": "low",
+      "heightM": 0.269
+    },
+    {
+      "time": "2026-07-26T22:22:12.451Z",
+      "type": "high",
+      "heightM": 1.47
+    },
+    {
+      "time": "2026-07-27T05:02:57.216Z",
+      "type": "low",
+      "heightM": 0.201
+    },
+    {
+      "time": "2026-07-27T10:53:58.798Z",
+      "type": "high",
+      "heightM": 1.219
+    },
+    {
+      "time": "2026-07-27T16:49:13.681Z",
+      "type": "low",
+      "heightM": 0.243
+    },
+    {
+      "time": "2026-07-27T23:05:14.677Z",
+      "type": "high",
+      "heightM": 1.511
+    },
+    {
+      "time": "2026-07-28T05:46:45.146Z",
+      "type": "low",
+      "heightM": 0.155
+    },
+    {
+      "time": "2026-07-28T11:37:06.298Z",
+      "type": "high",
+      "heightM": 1.266
+    },
+    {
+      "time": "2026-07-28T17:35:02.900Z",
+      "type": "low",
+      "heightM": 0.218
+    },
+    {
+      "time": "2026-07-28T23:44:14.326Z",
+      "type": "high",
+      "heightM": 1.541
+    },
+    {
+      "time": "2026-07-29T06:28:52.001Z",
+      "type": "low",
+      "heightM": 0.114
+    },
+    {
+      "time": "2026-07-29T12:17:12.744Z",
+      "type": "high",
+      "heightM": 1.304
+    },
+    {
+      "time": "2026-07-29T18:19:54.111Z",
+      "type": "low",
+      "heightM": 0.195
+    },
+    {
+      "time": "2026-07-30T00:20:35.771Z",
+      "type": "high",
+      "heightM": 1.555
+    },
+    {
+      "time": "2026-07-30T07:08:18.017Z",
+      "type": "low",
+      "heightM": 0.082
+    },
+    {
+      "time": "2026-07-30T12:55:24.052Z",
+      "type": "high",
+      "heightM": 1.333
+    },
+    {
+      "time": "2026-07-30T19:02:45.791Z",
+      "type": "low",
+      "heightM": 0.178
+    },
+    {
+      "time": "2026-07-31T00:55:23.173Z",
+      "type": "high",
+      "heightM": 1.551
+    },
+    {
+      "time": "2026-07-31T07:44:41.220Z",
+      "type": "low",
+      "heightM": 0.064
+    },
+    {
+      "time": "2026-07-31T13:32:26.806Z",
+      "type": "high",
+      "heightM": 1.356
+    },
+    {
+      "time": "2026-07-31T19:43:16.845Z",
+      "type": "low",
+      "heightM": 0.169
+    },
+    {
+      "time": "2026-08-01T01:29:56.513Z",
+      "type": "high",
+      "heightM": 1.53
+    },
+    {
+      "time": "2026-08-01T08:18:24.462Z",
+      "type": "low",
+      "heightM": 0.06
+    },
+    {
+      "time": "2026-08-01T14:09:29.560Z",
+      "type": "high",
+      "heightM": 1.38
+    },
+    {
+      "time": "2026-08-01T20:22:20.009Z",
+      "type": "low",
+      "heightM": 0.17
+    },
+    {
+      "time": "2026-08-02T02:06:19.716Z",
+      "type": "high",
+      "heightM": 1.492
+    },
+    {
+      "time": "2026-08-02T08:50:28.388Z",
+      "type": "low",
+      "heightM": 0.069
+    },
+    {
+      "time": "2026-08-02T14:48:34.482Z",
+      "type": "high",
+      "heightM": 1.411
+    },
+    {
+      "time": "2026-08-02T21:01:54.814Z",
+      "type": "low",
+      "heightM": 0.183
+    },
+    {
+      "time": "2026-08-03T02:47:05.712Z",
+      "type": "high",
+      "heightM": 1.442
+    },
+    {
+      "time": "2026-08-03T09:22:41.982Z",
+      "type": "low",
+      "heightM": 0.089
+    },
+    {
+      "time": "2026-08-03T15:31:55.166Z",
+      "type": "high",
+      "heightM": 1.447
+    },
+    {
+      "time": "2026-08-03T21:45:19.013Z",
+      "type": "low",
+      "heightM": 0.211
+    },
+    {
+      "time": "2026-08-04T03:34:27.216Z",
+      "type": "high",
+      "heightM": 1.384
+    },
+    {
+      "time": "2026-08-04T09:58:16.845Z",
+      "type": "low",
+      "heightM": 0.118
+    },
+    {
+      "time": "2026-08-04T16:20:25.224Z",
+      "type": "high",
+      "heightM": 1.486
+    },
+    {
+      "time": "2026-08-04T22:37:45.498Z",
+      "type": "low",
+      "heightM": 0.248
+    },
+    {
+      "time": "2026-08-05T04:28:31.259Z",
+      "type": "high",
+      "heightM": 1.325
+    },
+    {
+      "time": "2026-08-05T10:42:26.748Z",
+      "type": "low",
+      "heightM": 0.155
+    },
+    {
+      "time": "2026-08-05T17:12:57.861Z",
+      "type": "high",
+      "heightM": 1.523
+    },
+    {
+      "time": "2026-08-05T23:44:38.583Z",
+      "type": "low",
+      "heightM": 0.277
+    },
+    {
+      "time": "2026-08-06T05:26:50.185Z",
+      "type": "high",
+      "heightM": 1.274
+    },
+    {
+      "time": "2026-08-06T11:41:56.865Z",
+      "type": "low",
+      "heightM": 0.192
+    },
+    {
+      "time": "2026-08-06T18:08:50.888Z",
+      "type": "high",
+      "heightM": 1.554
+    },
+    {
+      "time": "2026-08-07T01:00:01.435Z",
+      "type": "low",
+      "heightM": 0.272
+    },
+    {
+      "time": "2026-08-07T06:28:42.685Z",
+      "type": "high",
+      "heightM": 1.237
+    },
+    {
+      "time": "2026-08-07T12:55:26.337Z",
+      "type": "low",
+      "heightM": 0.206
+    },
+    {
+      "time": "2026-08-07T19:09:53.291Z",
+      "type": "high",
+      "heightM": 1.579
+    },
+    {
+      "time": "2026-08-08T02:11:16.435Z",
+      "type": "low",
+      "heightM": 0.221
+    },
+    {
+      "time": "2026-08-08T07:37:19.482Z",
+      "type": "high",
+      "heightM": 1.226
+    },
+    {
+      "time": "2026-08-08T14:08:29.443Z",
+      "type": "low",
+      "heightM": 0.181
+    },
+    {
+      "time": "2026-08-08T20:17:45.263Z",
+      "type": "high",
+      "heightM": 1.613
+    },
+    {
+      "time": "2026-08-09T03:14:56.162Z",
+      "type": "low",
+      "heightM": 0.14
+    },
+    {
+      "time": "2026-08-09T08:51:40.810Z",
+      "type": "high",
+      "heightM": 1.262
+    },
+    {
+      "time": "2026-08-09T15:14:46.494Z",
+      "type": "low",
+      "heightM": 0.128
+    },
+    {
+      "time": "2026-08-09T21:26:17.666Z",
+      "type": "high",
+      "heightM": 1.669
+    },
+    {
+      "time": "2026-08-10T04:12:45.205Z",
+      "type": "low",
+      "heightM": 0.049
+    },
+    {
+      "time": "2026-08-10T10:00:15.849Z",
+      "type": "high",
+      "heightM": 1.346
+    },
+    {
+      "time": "2026-08-10T16:15:39.228Z",
+      "type": "low",
+      "heightM": 0.067
+    },
+    {
+      "time": "2026-08-10T22:27:20.947Z",
+      "type": "high",
+      "heightM": 1.735
+    },
+    {
+      "time": "2026-08-11T05:07:06.826Z",
+      "type": "low",
+      "heightM": -0.036
+    },
+    {
+      "time": "2026-08-11T10:59:06.416Z",
+      "type": "high",
+      "heightM": 1.448
+    },
+    {
+      "time": "2026-08-11T17:13:33.544Z",
+      "type": "low",
+      "heightM": 0.015
+    },
+    {
+      "time": "2026-08-11T23:21:17.080Z",
+      "type": "high",
+      "heightM": 1.782
+    },
+    {
+      "time": "2026-08-12T05:59:07.822Z",
+      "type": "low",
+      "heightM": -0.104
+    },
+    {
+      "time": "2026-08-12T11:51:53.994Z",
+      "type": "high",
+      "heightM": 1.534
+    },
+    {
+      "time": "2026-08-12T18:09:23.935Z",
+      "type": "low",
+      "heightM": -0.019
+    },
+    {
+      "time": "2026-08-13T00:11:07.998Z",
+      "type": "high",
+      "heightM": 1.793
+    },
+    {
+      "time": "2026-08-13T06:48:19.189Z",
+      "type": "low",
+      "heightM": -0.147
+    },
+    {
+      "time": "2026-08-13T12:41:44.033Z",
+      "type": "high",
+      "heightM": 1.59
+    },
+    {
+      "time": "2026-08-13T19:02:18.544Z",
+      "type": "low",
+      "heightM": -0.028
+    },
+    {
+      "time": "2026-08-14T00:59:00.263Z",
+      "type": "high",
+      "heightM": 1.76
+    },
+    {
+      "time": "2026-08-14T07:33:58.740Z",
+      "type": "low",
+      "heightM": -0.156
+    },
+    {
+      "time": "2026-08-14T13:30:07.939Z",
+      "type": "high",
+      "heightM": 1.611
+    },
+    {
+      "time": "2026-08-14T19:51:30.791Z",
+      "type": "low",
+      "heightM": -0.007
+    },
+    {
+      "time": "2026-08-15T01:46:05.947Z",
+      "type": "high",
+      "heightM": 1.69
+    },
+    {
+      "time": "2026-08-15T08:16:17.900Z",
+      "type": "low",
+      "heightM": -0.123
+    },
+    {
+      "time": "2026-08-15T14:17:53.173Z",
+      "type": "high",
+      "heightM": 1.6
+    },
+    {
+      "time": "2026-08-15T20:37:44.619Z",
+      "type": "low",
+      "heightM": 0.047
+    },
+    {
+      "time": "2026-08-16T02:33:23.935Z",
+      "type": "high",
+      "heightM": 1.591
+    },
+    {
+      "time": "2026-08-16T08:56:11.162Z",
+      "type": "low",
+      "heightM": -0.054
+    },
+    {
+      "time": "2026-08-16T15:05:32.255Z",
+      "type": "high",
+      "heightM": 1.566
+    },
+    {
+      "time": "2026-08-16T21:22:50.771Z",
+      "type": "low",
+      "heightM": 0.126
+    },
+    {
+      "time": "2026-08-17T03:21:39.931Z",
+      "type": "high",
+      "heightM": 1.48
+    },
+    {
+      "time": "2026-08-17T09:34:57.626Z",
+      "type": "low",
+      "heightM": 0.043
+    },
+    {
+      "time": "2026-08-17T15:53:17.490Z",
+      "type": "high",
+      "heightM": 1.518
+    },
+    {
+      "time": "2026-08-17T22:09:28.330Z",
+      "type": "low",
+      "heightM": 0.22
+    },
+    {
+      "time": "2026-08-18T04:11:04.482Z",
+      "type": "high",
+      "heightM": 1.37
+    },
+    {
+      "time": "2026-08-18T10:14:29.794Z",
+      "type": "low",
+      "heightM": 0.151
+    },
+    {
+      "time": "2026-08-18T16:40:44.267Z",
+      "type": "high",
+      "heightM": 1.468
+    },
+    {
+      "time": "2026-08-18T23:01:16.142Z",
+      "type": "low",
+      "heightM": 0.312
+    },
+    {
+      "time": "2026-08-19T05:00:51.884Z",
+      "type": "high",
+      "heightM": 1.273
+    },
+    {
+      "time": "2026-08-19T10:58:00.146Z",
+      "type": "low",
+      "heightM": 0.255
+    },
+    {
+      "time": "2026-08-19T17:27:30.615Z",
+      "type": "high",
+      "heightM": 1.42
+    },
+    {
+      "time": "2026-08-20T00:01:02.080Z",
+      "type": "low",
+      "heightM": 0.379
+    },
+    {
+      "time": "2026-08-20T05:50:37.529Z",
+      "type": "high",
+      "heightM": 1.196
+    },
+    {
+      "time": "2026-08-20T11:49:41.806Z",
+      "type": "low",
+      "heightM": 0.337
+    },
+    {
+      "time": "2026-08-20T18:14:35.419Z",
+      "type": "high",
+      "heightM": 1.381
+    },
+    {
+      "time": "2026-08-21T01:05:16.962Z",
+      "type": "low",
+      "heightM": 0.409
+    },
+    {
+      "time": "2026-08-21T06:41:54.580Z",
+      "type": "high",
+      "heightM": 1.143
+    },
+    {
+      "time": "2026-08-21T12:49:44.443Z",
+      "type": "low",
+      "heightM": 0.385
+    },
+    {
+      "time": "2026-08-21T19:04:36.884Z",
+      "type": "high",
+      "heightM": 1.355
+    },
+    {
+      "time": "2026-08-22T02:06:13.212Z",
+      "type": "low",
+      "heightM": 0.395
+    },
+    {
+      "time": "2026-08-22T07:37:49.365Z",
+      "type": "high",
+      "heightM": 1.119
+    },
+    {
+      "time": "2026-08-22T13:50:43.330Z",
+      "type": "low",
+      "heightM": 0.39
+    },
+    {
+      "time": "2026-08-22T20:00:28.154Z",
+      "type": "high",
+      "heightM": 1.351
+    },
+    {
+      "time": "2026-08-23T03:00:08.466Z",
+      "type": "low",
+      "heightM": 0.353
+    },
+    {
+      "time": "2026-08-23T08:38:44.736Z",
+      "type": "high",
+      "heightM": 1.133
+    },
+    {
+      "time": "2026-08-23T14:46:51.298Z",
+      "type": "low",
+      "heightM": 0.362
+    },
+    {
+      "time": "2026-08-23T20:59:26.630Z",
+      "type": "high",
+      "heightM": 1.378
+    },
+    {
+      "time": "2026-08-24T03:47:58.974Z",
+      "type": "low",
+      "heightM": 0.294
+    },
+    {
+      "time": "2026-08-24T09:36:52.236Z",
+      "type": "high",
+      "heightM": 1.185
+    },
+    {
+      "time": "2026-08-24T15:37:40.224Z",
+      "type": "low",
+      "heightM": 0.314
+    },
+    {
+      "time": "2026-08-24T21:52:43.212Z",
+      "type": "high",
+      "heightM": 1.433
+    },
+    {
+      "time": "2026-08-25T04:32:05.361Z",
+      "type": "low",
+      "heightM": 0.228
+    },
+    {
+      "time": "2026-08-25T10:26:23.818Z",
+      "type": "high",
+      "heightM": 1.258
+    },
+    {
+      "time": "2026-08-25T16:24:56.455Z",
+      "type": "low",
+      "heightM": 0.258
+    },
+    {
+      "time": "2026-08-25T22:37:46.728Z",
+      "type": "high",
+      "heightM": 1.493
+    },
+    {
+      "time": "2026-08-26T05:14:06.064Z",
+      "type": "low",
+      "heightM": 0.165
+    },
+    {
+      "time": "2026-08-26T11:09:00.556Z",
+      "type": "high",
+      "heightM": 1.335
+    },
+    {
+      "time": "2026-08-26T17:10:29.853Z",
+      "type": "low",
+      "heightM": 0.205
+    },
+    {
+      "time": "2026-08-26T23:17:18.017Z",
+      "type": "high",
+      "heightM": 1.545
+    }
+  ]
+}

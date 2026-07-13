@@ -1,0 +1,61 @@
+{
+  "station": {
+    "id": "ticon/port_lambton_ontario-11950-can-meds",
+    "name": "Port Lambton Ontario",
+    "sourceName": "TICON-4",
+    "sourceId": "port_lambton_ontario-11950-can-meds",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "Canada",
+    "region": "MI",
+    "continent": "Americas",
+    "timezone": "America/Toronto",
+    "latitude": 42.66,
+    "longitude": -82.51,
+    "chartDatum": "LAT",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T04:19:37.567Z",
+      "type": "high",
+      "heightM": 0.248
+    },
+    {
+      "time": "2026-07-21T21:04:03.801Z",
+      "type": "high",
+      "heightM": 0.261
+    },
+    {
+      "time": "2026-08-16T19:41:26.614Z",
+      "type": "high",
+      "heightM": 0.237
+    },
+    {
+      "time": "2026-08-20T19:20:42.855Z",
+      "type": "high",
+      "heightM": 0.221
+    },
+    {
+      "time": "2026-08-26T17:27:46.477Z",
+      "type": "high",
+      "heightM": 0.205
+    }
+  ]
+}

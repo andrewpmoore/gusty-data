@@ -1,0 +1,56 @@
+{
+  "station": {
+    "id": "ticon/crms0008-crms0008-usa-crms",
+    "name": "French Settlement",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0008-crms0008-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 30.23072,
+    "longitude": -90.68443,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T07:41:11.733Z",
+      "type": "high",
+      "heightM": 0.008
+    },
+    {
+      "time": "2026-07-31T21:09:06.846Z",
+      "type": "low",
+      "heightM": -0.005
+    },
+    {
+      "time": "2026-08-08T16:13:52.113Z",
+      "type": "low",
+      "heightM": 0.017
+    },
+    {
+      "time": "2026-08-26T19:33:51.642Z",
+      "type": "low",
+      "heightM": 0.029
+    }
+  ]
+}

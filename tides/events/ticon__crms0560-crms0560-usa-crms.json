@@ -1,0 +1,86 @@
+{
+  "station": {
+    "id": "ticon/crms0560-crms0560-usa-crms",
+    "name": "Gueydan",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0560-crms0560-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.85348,
+    "longitude": -92.5418,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T05:11:47.203Z",
+      "type": "low",
+      "heightM": 0.036
+    },
+    {
+      "time": "2026-08-05T03:01:11.768Z",
+      "type": "low",
+      "heightM": 0.061
+    },
+    {
+      "time": "2026-08-05T18:36:51.460Z",
+      "type": "high",
+      "heightM": 0.074
+    },
+    {
+      "time": "2026-08-06T00:49:54.469Z",
+      "type": "low",
+      "heightM": 0.063
+    },
+    {
+      "time": "2026-08-06T19:00:34.374Z",
+      "type": "high",
+      "heightM": 0.077
+    },
+    {
+      "time": "2026-08-07T01:19:32.171Z",
+      "type": "low",
+      "heightM": 0.067
+    },
+    {
+      "time": "2026-08-14T14:38:09.395Z",
+      "type": "low",
+      "heightM": 0.084
+    },
+    {
+      "time": "2026-08-25T19:47:38.218Z",
+      "type": "high",
+      "heightM": 0.096
+    },
+    {
+      "time": "2026-08-26T07:26:21.840Z",
+      "type": "low",
+      "heightM": 0.084
+    },
+    {
+      "time": "2026-08-26T20:01:48.696Z",
+      "type": "high",
+      "heightM": 0.097
+    }
+  ]
+}

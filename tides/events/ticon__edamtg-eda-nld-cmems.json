@@ -1,0 +1,86 @@
+{
+  "station": {
+    "id": "ticon/edamtg-eda-nld-cmems",
+    "name": "Edam",
+    "sourceName": "TICON-4",
+    "sourceId": "edamtg-eda-nld-cmems",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-nc-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "commercialUse": false,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "Netherlands",
+    "region": "North Holland",
+    "continent": "Europe",
+    "timezone": "Europe/Amsterdam",
+    "latitude": 52.516998,
+    "longitude": 5.07,
+    "chartDatum": "LAT",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T13:26:36.109Z",
+      "type": "low",
+      "heightM": 0.165
+    },
+    {
+      "time": "2026-07-14T00:16:36.828Z",
+      "type": "high",
+      "heightM": 0.175
+    },
+    {
+      "time": "2026-07-14T13:31:26.432Z",
+      "type": "low",
+      "heightM": 0.164
+    },
+    {
+      "time": "2026-07-15T00:23:12.904Z",
+      "type": "high",
+      "heightM": 0.175
+    },
+    {
+      "time": "2026-07-15T13:36:07.203Z",
+      "type": "low",
+      "heightM": 0.164
+    },
+    {
+      "time": "2026-07-18T23:35:31.450Z",
+      "type": "high",
+      "heightM": 0.175
+    },
+    {
+      "time": "2026-07-23T23:36:48.262Z",
+      "type": "high",
+      "heightM": 0.163
+    },
+    {
+      "time": "2026-08-06T06:04:45.548Z",
+      "type": "high",
+      "heightM": 0.146
+    },
+    {
+      "time": "2026-08-15T23:17:41.257Z",
+      "type": "high",
+      "heightM": 0.129
+    },
+    {
+      "time": "2026-08-26T17:47:37.062Z",
+      "type": "low",
+      "heightM": 0.1
+    }
+  ]
+}

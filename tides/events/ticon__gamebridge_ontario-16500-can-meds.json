@@ -1,0 +1,76 @@
+{
+  "station": {
+    "id": "ticon/gamebridge_ontario-16500-can-meds",
+    "name": "Gamebridge Ontario",
+    "sourceName": "TICON-4",
+    "sourceId": "gamebridge_ontario-16500-can-meds",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "Canada",
+    "region": "08",
+    "continent": "Americas",
+    "timezone": "America/Toronto",
+    "latitude": 44.47,
+    "longitude": -79.17,
+    "chartDatum": "LAT",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T07:40:32.843Z",
+      "type": "low",
+      "heightM": 0.311
+    },
+    {
+      "time": "2026-07-23T20:05:53.258Z",
+      "type": "high",
+      "heightM": 0.275
+    },
+    {
+      "time": "2026-07-28T21:34:41.611Z",
+      "type": "high",
+      "heightM": 0.255
+    },
+    {
+      "time": "2026-08-05T19:18:38.854Z",
+      "type": "high",
+      "heightM": 0.221
+    },
+    {
+      "time": "2026-08-10T22:30:06.184Z",
+      "type": "high",
+      "heightM": 0.201
+    },
+    {
+      "time": "2026-08-15T00:01:25.651Z",
+      "type": "high",
+      "heightM": 0.186
+    },
+    {
+      "time": "2026-08-20T19:24:15.045Z",
+      "type": "high",
+      "heightM": 0.161
+    },
+    {
+      "time": "2026-08-26T21:02:06.165Z",
+      "type": "high",
+      "heightM": 0.139
+    }
+  ]
+}

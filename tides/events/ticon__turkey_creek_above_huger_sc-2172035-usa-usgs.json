@@ -1,0 +1,66 @@
+{
+  "station": {
+    "id": "ticon/turkey_creek_above_huger_sc-2172035-usa-usgs",
+    "name": "Turkey Creek Above Huger Sc",
+    "sourceName": "TICON-4",
+    "sourceId": "turkey_creek_above_huger_sc-2172035-usa-usgs",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "SC",
+    "continent": "Americas",
+    "timezone": "America/New_York",
+    "latitude": 33.131139,
+    "longitude": -79.784056,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T01:30:12.217Z",
+      "type": "high",
+      "heightM": -0.067
+    },
+    {
+      "time": "2026-07-15T17:15:23.003Z",
+      "type": "low",
+      "heightM": -0.055
+    },
+    {
+      "time": "2026-07-16T17:57:16.208Z",
+      "type": "low",
+      "heightM": -0.044
+    },
+    {
+      "time": "2026-07-29T16:20:28.409Z",
+      "type": "low",
+      "heightM": -0.017
+    },
+    {
+      "time": "2026-08-12T16:13:26.913Z",
+      "type": "low",
+      "heightM": 0.016
+    },
+    {
+      "time": "2026-08-26T21:47:22.338Z",
+      "type": "high",
+      "heightM": 0.035
+    }
+  ]
+}

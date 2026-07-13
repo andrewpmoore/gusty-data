@@ -1,0 +1,51 @@
+{
+  "station": {
+    "id": "ticon/crms1100-crms1100-usa-crms",
+    "name": "Kaplan",
+    "sourceName": "TICON-4",
+    "sourceId": "crms1100-crms1100-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.65751,
+    "longitude": -92.44805,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T12:14:07.231Z",
+      "type": "high",
+      "heightM": -0.008
+    },
+    {
+      "time": "2026-08-09T06:55:13.217Z",
+      "type": "low",
+      "heightM": 0.013
+    },
+    {
+      "time": "2026-08-26T16:45:27.016Z",
+      "type": "high",
+      "heightM": 0.028
+    }
+  ]
+}

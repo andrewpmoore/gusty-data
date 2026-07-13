@@ -1,0 +1,66 @@
+{
+  "station": {
+    "id": "ticon/crms0261-crms0261-usa-crms",
+    "name": "Lafitte",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0261-crms0261-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.59944,
+    "longitude": -90.10424,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T10:38:34.681Z",
+      "type": "high",
+      "heightM": 0.049
+    },
+    {
+      "time": "2026-08-05T23:46:47.793Z",
+      "type": "high",
+      "heightM": 0.03
+    },
+    {
+      "time": "2026-08-08T18:18:44.274Z",
+      "type": "low",
+      "heightM": 0.017
+    },
+    {
+      "time": "2026-08-13T21:25:37.326Z",
+      "type": "low",
+      "heightM": 0.038
+    },
+    {
+      "time": "2026-08-19T23:25:56.639Z",
+      "type": "high",
+      "heightM": 0.049
+    },
+    {
+      "time": "2026-08-26T20:19:41.246Z",
+      "type": "low",
+      "heightM": 0.039
+    }
+  ]
+}

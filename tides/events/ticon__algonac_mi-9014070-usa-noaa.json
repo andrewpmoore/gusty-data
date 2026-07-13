@@ -1,0 +1,51 @@
+{
+  "station": {
+    "id": "ticon/algonac_mi-9014070-usa-noaa",
+    "name": "Algonac Mi",
+    "sourceName": "TICON-4",
+    "sourceId": "algonac_mi-9014070-usa-noaa",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "MI",
+    "continent": "Americas",
+    "timezone": "America/Detroit",
+    "latitude": 42.621113,
+    "longitude": -82.526665,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T05:58:18.427Z",
+      "type": "high",
+      "heightM": 0.167
+    },
+    {
+      "time": "2026-08-16T08:03:30.069Z",
+      "type": "high",
+      "heightM": 0.153
+    },
+    {
+      "time": "2026-08-26T23:48:08.194Z",
+      "type": "low",
+      "heightM": 0.122
+    }
+  ]
+}

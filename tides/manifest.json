@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "stationCount": 8285,
+  "errorCount": 0,
+  "files": {
+    "stations": "stations.json",
+    "events": "events/<station-id-with-slashes-replaced-by-__.json>"
+  },
+  "filters": {
+    "commercialUse": "included",
+    "qualityAcceptedOnly": false,
+    "stationType": "reference-and-subordinate",
+    "requiresHarmonicConstituents": "reference stations only",
+    "subordinateOffsets": true
+  },
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "errors": []
+}

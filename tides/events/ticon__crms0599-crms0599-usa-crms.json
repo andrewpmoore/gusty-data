@@ -1,0 +1,46 @@
+{
+  "station": {
+    "id": "ticon/crms0599-crms0599-usa-crms",
+    "name": "Gueydan",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0599-crms0599-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.6067,
+    "longitude": -92.66681,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T00:53:46.862Z",
+      "type": "low",
+      "heightM": 0.013
+    },
+    {
+      "time": "2026-08-26T21:08:03.682Z",
+      "type": "high",
+      "heightM": 0.034
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "station": {
+    "id": "ticon/crms0059-crms0059-usa-crms",
+    "name": "Montegut",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0059-crms0059-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 30.09295,
+    "longitude": -90.53906,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T06:33:45.106Z",
+      "type": "high",
+      "heightM": 0.005
+    },
+    {
+      "time": "2026-08-09T16:27:27.795Z",
+      "type": "low",
+      "heightM": 0.032
+    },
+    {
+      "time": "2026-08-21T15:17:21.647Z",
+      "type": "low",
+      "heightM": 0.042
+    },
+    {
+      "time": "2026-08-26T23:31:13.638Z",
+      "type": "high",
+      "heightM": 0.052
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "station": {
+    "id": "ticon/crms0194-crms0194-usa-crms",
+    "name": "Napoleonville",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0194-crms0194-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.99133,
+    "longitude": -90.94014,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T01:31:05.435Z",
+      "type": "high",
+      "heightM": -0.052
+    },
+    {
+      "time": "2026-08-19T02:41:13.833Z",
+      "type": "low",
+      "heightM": -0.035
+    },
+    {
+      "time": "2026-08-26T19:55:08.877Z",
+      "type": "high",
+      "heightM": -0.022
+    }
+  ]
+}

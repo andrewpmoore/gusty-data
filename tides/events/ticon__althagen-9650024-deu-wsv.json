@@ -1,0 +1,76 @@
+{
+  "station": {
+    "id": "ticon/althagen-9650024-deu-wsv",
+    "name": "Althagen",
+    "sourceName": "TICON-4",
+    "sourceId": "althagen-9650024-deu-wsv",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "Germany",
+    "region": "Mecklenburg-Vorpommern",
+    "continent": "Europe",
+    "timezone": "Europe/Berlin",
+    "latitude": 54.371756,
+    "longitude": 12.418957,
+    "chartDatum": "LAT",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T07:30:59.724Z",
+      "type": "high",
+      "heightM": 0.082
+    },
+    {
+      "time": "2026-07-26T14:28:01.611Z",
+      "type": "low",
+      "heightM": 0.071
+    },
+    {
+      "time": "2026-07-27T13:07:49.814Z",
+      "type": "low",
+      "heightM": 0.083
+    },
+    {
+      "time": "2026-07-28T13:12:56.512Z",
+      "type": "low",
+      "heightM": 0.096
+    },
+    {
+      "time": "2026-08-16T05:55:18.681Z",
+      "type": "high",
+      "heightM": 0.113
+    },
+    {
+      "time": "2026-08-23T15:04:00.668Z",
+      "type": "low",
+      "heightM": 0.098
+    },
+    {
+      "time": "2026-08-24T14:32:08.578Z",
+      "type": "low",
+      "heightM": 0.108
+    },
+    {
+      "time": "2026-08-26T15:10:06.746Z",
+      "type": "low",
+      "heightM": 0.128
+    }
+  ]
+}

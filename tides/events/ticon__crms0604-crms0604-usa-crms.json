@@ -1,0 +1,56 @@
+{
+  "station": {
+    "id": "ticon/crms0604-crms0604-usa-crms",
+    "name": "Lake Arthur",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0604-crms0604-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.75912,
+    "longitude": -92.76056,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "Possible datum issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T06:59:28.433Z",
+      "type": "high",
+      "heightM": -0.027
+    },
+    {
+      "time": "2026-08-05T23:51:51.409Z",
+      "type": "low",
+      "heightM": -0.014
+    },
+    {
+      "time": "2026-08-18T01:27:50.702Z",
+      "type": "low",
+      "heightM": 0.011
+    },
+    {
+      "time": "2026-08-26T23:38:28.935Z",
+      "type": "low",
+      "heightM": 0.026
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "station": {
+    "id": "ticon/ludington_mi-9087023-usa-noaa",
+    "name": "Ludington Mi",
+    "sourceName": "TICON-4",
+    "sourceId": "ludington_mi-9087023-usa-noaa",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "MI",
+    "continent": "Americas",
+    "timezone": "America/Detroit",
+    "latitude": 43.947361,
+    "longitude": -86.441611,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T00:33:41.266Z",
+      "type": "low",
+      "heightM": 0.201
+    },
+    {
+      "time": "2026-08-16T22:06:29.829Z",
+      "type": "high",
+      "heightM": 0.177
+    },
+    {
+      "time": "2026-08-26T20:09:31.967Z",
+      "type": "high",
+      "heightM": 0.158
+    }
+  ]
+}

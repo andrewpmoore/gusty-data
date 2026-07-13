@@ -1,0 +1,56 @@
+{
+  "station": {
+    "id": "ticon/tecumseh_ontario-11975-can-meds",
+    "name": "Tecumseh Ontario",
+    "sourceName": "TICON-4",
+    "sourceId": "tecumseh_ontario-11975-can-meds",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "Canada",
+    "region": "MI",
+    "continent": "Americas",
+    "timezone": "America/Toronto",
+    "latitude": 42.34,
+    "longitude": -82.93,
+    "chartDatum": "LAT",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T01:27:10.048Z",
+      "type": "high",
+      "heightM": 0.306
+    },
+    {
+      "time": "2026-08-02T04:11:27.909Z",
+      "type": "high",
+      "heightM": 0.276
+    },
+    {
+      "time": "2026-08-15T04:26:04.447Z",
+      "type": "high",
+      "heightM": 0.25
+    },
+    {
+      "time": "2026-08-26T18:06:49.440Z",
+      "type": "low",
+      "heightM": 0.216
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "station": {
+    "id": "ticon/crms3800-crms3800-usa-crms",
+    "name": "Poydras",
+    "sourceName": "TICON-4",
+    "sourceId": "crms3800-crms3800-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 29.83896,
+    "longitude": -89.66672,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T01:31:13.623Z",
+      "type": "high",
+      "heightM": -0.06
+    },
+    {
+      "time": "2026-08-26T21:06:22.704Z",
+      "type": "low",
+      "heightM": -0.04
+    }
+  ]
+}

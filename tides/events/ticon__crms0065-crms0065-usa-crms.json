@@ -1,0 +1,51 @@
+{
+  "station": {
+    "id": "ticon/crms0065-crms0065-usa-crms",
+    "name": "Sorrento",
+    "sourceName": "TICON-4",
+    "sourceId": "crms0065-crms0065-usa-crms",
+    "sourceUrl": "https://www.seanoe.org/data/00980/109129/",
+    "license": "cc-by-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialUse": true,
+    "stationType": "reference",
+    "referenceStationId": null,
+    "country": "United States",
+    "region": "LA",
+    "continent": "Americas",
+    "timezone": "America/Chicago",
+    "latitude": 30.12192,
+    "longitude": -90.811,
+    "chartDatum": "MLLW",
+    "datumsSource": "observed",
+    "qualityAccepted": false,
+    "quality": "No obvious issues"
+  },
+  "generatedAt": "2026-07-13T05:48:25.667Z",
+  "validFrom": "2026-07-13T00:00:00.000Z",
+  "validTo": "2026-08-27T00:00:00.000Z",
+  "days": 45,
+  "units": {
+    "height": "m above chart datum",
+    "time": "UTC"
+  },
+  "disclaimer": "Tide predictions are informational and not for navigation.",
+  "attribution": "Tide harmonic constituents and subordinate station offsets from the Neaps tide database (https://github.com/openwatersio/tide-database).",
+  "events": [
+    {
+      "time": "2026-07-13T06:50:02.137Z",
+      "type": "high",
+      "heightM": 0.003
+    },
+    {
+      "time": "2026-08-11T17:36:12.906Z",
+      "type": "low",
+      "heightM": 0.031
+    },
+    {
+      "time": "2026-08-26T21:21:30.824Z",
+      "type": "low",
+      "heightM": 0.046
+    }
+  ]
+}

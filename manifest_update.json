@@ -1,0 +1,424 @@
+{
+  "wind": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "vector",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "gusts": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "temp": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 12474,
+    "packs": 1540,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "humidity": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "clouds": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 162,
+    "packs": 20,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "visibility": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "pressure": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "waves": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "vector",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "smoke": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "air_quality": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "dust": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "snow": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "cape": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    }
+  },
+  "storm_potential": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "scalar",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    },
+    "metadata": {
+      "units": "index",
+      "value_range": [
+        0,
+        100
+      ],
+      "description": "Colored storm-potential layer derived from GFS instability, modeled convection, moisture, cap strength, and deep-layer shear.",
+      "source_fields": [
+        "CAPE_surface",
+        "REFC_entire_atmosphere",
+        "CIN_surface_optional",
+        "PRATE_surface_optional",
+        "CPRAT_surface_optional",
+        "PWAT_entire_atmosphere_optional",
+        "DPT_2m_optional",
+        "UGRD/VGRD_500mb_optional",
+        "UGRD/VGRD_850mb_optional"
+      ],
+      "formula": "Instability blended with reflectivity/precipitation overlap, moisture support, CIN suppression, and optional 850-500 mb shear boost; scaled to 0-100"
+    }
+  },
+  "storm_motion": {
+    "ref_time": "2026-07-11T12:00:00.000000000",
+    "tiles": 1944,
+    "packs": 240,
+    "grid_type": "vector",
+    "tile_format": {
+      "name": "gusty-grid",
+      "version": 1,
+      "extension": "gtile",
+      "encoding": "int16-quantized",
+      "endianness": "little",
+      "missing_value": -32768,
+      "decode_formula": "value = offset + raw * scale"
+    },
+    "pack_format": {
+      "name": "gusty-pack",
+      "version": 1,
+      "extension": "gpack",
+      "lat_size": 60,
+      "lon_size": 80,
+      "contains": "gtile",
+      "overview_key_suffix": "_60",
+      "overview_sample_step": 4,
+      "offset_base": "start_of_data_section"
+    },
+    "metadata": {
+      "units": "m/s weighted by storm potential",
+      "description": "Optional vector storm-motion layer for particles/arrows, using 700 mb steering wind weighted by the storm-potential score.",
+      "source_fields": [
+        "CAPE_surface",
+        "REFC_entire_atmosphere",
+        "optional storm-potential ingredients",
+        "UGRD_700mb",
+        "VGRD_700mb"
+      ],
+      "formula": "U/V steering wind multiplied by a 0-1 storm score from the storm-potential formula"
+    }
+  }
+}
